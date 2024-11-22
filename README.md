@@ -32,8 +32,7 @@ This repository is part of the **DS340W Research Project** at The Pennsylvania S
 The dataset used in this study comprises **8,560 tweets** labeled as "real" or "fake." The dataset includes:
 - Training set: 6,420 entries.
 - Testing set: 2,140 entries.
-
-For more details, refer to the original benchmark dataset by [Khan et al.](https://paperswithcode.com/dataset/covid19-fake-news).
+Benchmarked by ML models, detailed in paper. 
 
 ## Results
 - **Standalone BERT Model**:
